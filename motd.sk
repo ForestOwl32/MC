@@ -1,0 +1,4 @@
+#서버의 MOTD
+on server list ping:
+    #서버의 MOTD를 설정하기.
+    set motd to "이 곳에 서버 MOTD 적으세요."
