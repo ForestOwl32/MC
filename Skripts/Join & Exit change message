@@ -1,0 +1,12 @@
+#서버에 처음으로 접속을 했을때
+on first join:
+    #입장 메시지를 뜨기
+    set join message to ""
+#서버에 입장을 했을때
+on join:
+    #입장 메시지를 뜨기
+    set join message to ""
+#서버에서 퇴장을 했을때
+on quit:
+    #퇴장 메시지를 뜨기
+    set quit message to ""
